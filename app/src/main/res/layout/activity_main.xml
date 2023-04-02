@@ -6,4 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <ru.mihmas.aston_4.ClockView
+        android:id="@+id/clock"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 </FrameLayout>
